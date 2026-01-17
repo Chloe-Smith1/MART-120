@@ -1,0 +1,10 @@
+GUI stands for graphical user interface. It simply allows users to interact with devices through 
+graphic elements. These elements can include things like icons, cursors, menus, buttons, etc. Using 
+these components lets the user interact with computers or other devices without having to know 
+specific commands as the action is simply laid out. It also helps with more consistancy and 
+accessibility across interfaces. 
+CLI stands for command line interface. This tool interacts with devices through typed commands. It 
+uses a shell which gives acces to the operating system. The shell will interpret the command typed by
+the user, finds the command on the systems path, and executes it. After that process is completed,
+the system will send out feedback to the CLI. A big perk of this interface is that it enables command
+history so the user can easily recall orevious inputs. 
